@@ -1,0 +1,8 @@
+Laranja,5.50,80
+Ameixas,10.0,60
+Goiaba,8.0,50
+Mexerica,7.25,100
+Arroz-Pacote,6.0,100
+Barra-Chocolate,5.0,25
+Abacate,4.30,32
+Shampoo,15.80,24
