@@ -77,7 +77,7 @@ def menu():
 	res = int(input("O que deseja fazer? "))
 	
 	if res == 1:
-		comprar()
+		compra()
 	elif res == 2:
 		tabela()
 		menu()
